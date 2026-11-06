@@ -10,7 +10,7 @@ A desktop IDE for C/C++, Python, Java and C#, upgraded from Sameko Dev C++.
 2. Run it. Setup installs for your Windows account and creates **Semeko Pro** shortcuts on the Desktop and Start Menu.
 3. Open the app, select a language, and press Run.
 
-Windows 10/11 64-bit. The full installer includes GCC/GDB/clangd, Python, a Java JDK and .NET SDK for basic compile/run. Node.js and Git are not required. Third-party Python packages and optional language servers/debug adapters are separate. Internet is needed for online platforms and some project dependencies. Other .NET target frameworks may need additional SDK packs.
+Windows 10/11 64-bit. Allow about 6 GB free during installation for the SDKs and temporary extraction. The full installer includes GCC/GDB/clangd, Python, a Java JDK and .NET SDK for basic compile/run. Node.js and Git are not required. Third-party Python packages and optional language servers/debug adapters are separate. Internet is needed for online platforms and some project dependencies. Other .NET target frameworks may need additional SDK packs.
 
 The installer is not code-signed; Windows may show a reputation prompt. Updates preserve your source files and settings.
 
