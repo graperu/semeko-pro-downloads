@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /content/
+Sitemap: https://graperu.github.io/semeko-pro-downloads/sitemap.xml
